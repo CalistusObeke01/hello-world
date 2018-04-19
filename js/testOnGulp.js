@@ -1,5 +1,6 @@
-function testOnGulp() {
-	console.log("Happy world day");
+
+function GulpTest() {
+	console.log("Hello world in GULP ")
 }
 
-testOnGulp()
+GulpTest()
